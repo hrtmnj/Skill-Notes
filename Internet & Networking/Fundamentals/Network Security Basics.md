@@ -1,0 +1,1 @@
+Firewalls, VPNs, Authentication & Authorization (basics of verifying user identity and granting access rights)
